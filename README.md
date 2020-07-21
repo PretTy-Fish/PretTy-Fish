@@ -1,6 +1,16 @@
-<h1 align="center">Hi there 👋 PretTyFish here.</h1>
+<h2 align="center">Hi there 👋 PretTyFish here.</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PretTy-Fish&show_icons=true&hide_border=true&theme=default"/>
+<p align="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PretTy-Fish&show_icons=true&hide_border=true&theme=default"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PretTy-Fish&hide_langs_below=1"/>
+</p>
+
+### About me
+
+- From Guangzhou, China
+- Undergraduate, studying **Physics** at University of Melbourne
+- Novice **C++** and **Python** user, wants to learn C#
+- Plays mobile MUGs
 
 <!--
 **PretTy-Fish/PretTy-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
