@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 PretTyFish here.<\h1>
+<h1 align="center">Hi there 👋 PretTyFish here.</h1>
 
 <!--
 **PretTy-Fish/PretTy-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
