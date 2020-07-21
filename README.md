@@ -1,8 +1,7 @@
 <h2 align="center">Hi there 👋 PretTyFish here.</h2>
 
 <p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PretTy-Fish&show_icons=true&hide_border=true&theme=default"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PretTy-Fish&hide_langs_below=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PretTy-Fish&show_icons=true&hide_border=true&theme=default"/>
 </p>
 
 ### About me
