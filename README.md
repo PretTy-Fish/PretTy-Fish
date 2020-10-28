@@ -32,6 +32,8 @@
 - Plays mobile MUGs
 - Sometimes makes music
 
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PretTy-Fish&layout=compact" />
+
 <!--
 **PretTy-Fish/PretTy-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
