@@ -20,8 +20,8 @@
 ### About me
 
 - From Guangzhou, China
-- Writes **C++** and **Python**
-- Plays mobile MUGs
+- Writes **Python** and **C++**
+- Plays music games
 - Sometimes makes music
 
 <!--
