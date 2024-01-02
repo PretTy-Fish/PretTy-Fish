@@ -17,7 +17,6 @@
 ### About me
 
 - From Guangzhou, China
-- Graduate student, studying **Physics** at University of Melbourne
 - Novice **C++** and **Python** user, wants to learn C#
 - Plays mobile MUGs
 - Sometimes makes music
