@@ -20,7 +20,7 @@
 ### About me
 
 - From Guangzhou, China
-- Novice **C++** and **Python** user, wants to learn C#
+- Writes **C++** and **Python**
 - Plays mobile MUGs
 - Sometimes makes music
 
