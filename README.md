@@ -12,7 +12,10 @@
   <a href="https://space.bilibili.com/4788363">Bilibili</a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PretTy-Fish&show_icons=true&hide_border=true&theme=dark"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PretTy-Fish&show_icons=true&hide_border=true&theme=dark"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PretTy-Fish&layout=compact&hide_border=true&theme=dark"/>
+</p>
 
 ### About me
 
@@ -20,8 +23,6 @@
 - Novice **C++** and **Python** user, wants to learn C#
 - Plays mobile MUGs
 - Sometimes makes music
-
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PretTy-Fish&layout=compact&hide_border=true&theme=dark"/>
 
 <!--
 **PretTy-Fish/PretTy-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
