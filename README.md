@@ -1,6 +1,9 @@
 <h2 align="center">Hi there 👋 PretTyFish here.</h2>
 
+<!--
 <p align="center">
+  <a href="https://www.linkedin.com/in/haolin-huang/">LinkedIn</a>
+  ·
   <a href="https://www.facebook.com/PretTyFish.Hollis">Facebook</a>
   ·
   <a href="https://twitter.com/PreT_Fish">Twitter</a>
@@ -11,6 +14,7 @@
   ·
   <a href="https://space.bilibili.com/4788363">Bilibili</a>
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PretTy-Fish&show_icons=true&hide_border=true&theme=dark"/>
