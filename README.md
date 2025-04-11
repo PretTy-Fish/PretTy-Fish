@@ -19,8 +19,8 @@
 
 ### About me
 
-- From Guangzhou, China
-- Writes **Python** and **C++**
+- Computational condensed matter physics
+- Writes **Python** and **MATLAB**, reads **C/C++**
 - Plays music games
 - Sometimes makes music
 
